@@ -1,1 +1,1 @@
-# python_practice
+# 30DaysOfPython
